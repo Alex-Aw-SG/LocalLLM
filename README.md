@@ -1,6 +1,6 @@
 ## Background:
 
-With availability of LLM models in [quantized](https://www.tensorops.ai/post/what-are-quantized-llms "What are Quantized LLMs?") versions, it is now possible to run LLM on your personal machine or laptop. Having a local LLM cut away expensive API service charges by the likes of OpenAI. However, smaller or quantized LLM performances are not as comprehensive as ChatGPT. Hence it is vital to evaluate whether the local LLM performance meets the user requirement. 
+With availability of LLM models in [quantized](https://www.tensorops.ai/post/what-are-quantized-llms "What are Quantized LLMs?") versions, it is now possible to run LLM on your personal machine or laptop CPU. Having a local LLM cut away expensive API service charges by the likes of OpenAI. However, smaller or quantized LLM performances are not as comprehensive as ChatGPT. Hence it is vital to evaluate whether the local LLM performance meets the user requirement. 
 
 In addition of unlimited usage of local LLM, using proprietary data can increase the domain knowledge of the model. After in-house data are stored in the vector database, it can be referenced by the LLM to answer queries specific to user’s domain. Hosting the vector database on premise will enhance the security of data if they are of high sensitivity, ensuring that no company secrets are transmitted out. For the purpose of this app, the data are stored in PineCone which is a cloud vector database (Free Tier available).
 
