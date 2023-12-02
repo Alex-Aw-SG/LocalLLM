@@ -9,7 +9,7 @@ In addition of unlimited usage of local LLM, using proprietary data can increase
 ## Instructions:   
 
 •	Request access to [Llama 2](https://ai.meta.com/llama) from Meta.   
-•	Request access to quantized Llama 2 from [Hugging Face]( https://huggingface.co/meta-llama).   
+•	Request access to quantized Llama 2 from [Hugging Face]( https://huggingface.co/meta-llama). (Use same email as Meta request)    
 •	Download Llama 2 [7B](https://huggingface.co/TheBloke/nsql-llama-2-7B-GGUF) or [13B](https://huggingface.co/TheBloke/Llama-2-13B-GGUF) quantized version.   
 •	Sign up for free account with [PineCone](https://www.pinecone.io). Note: When setting up index, dimension input is 384.   
 
